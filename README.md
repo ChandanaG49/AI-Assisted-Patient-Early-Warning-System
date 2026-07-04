@@ -24,22 +24,14 @@ The system includes the following features:
 
 The proposed system follows these steps:
 
-Step 1: User Registration
+Step 1: User Registration : New users register using a username and password.
 
-New users register using a username and password.
+Step 2: User Login : Registered users log in using their credentials.
 
-Step 2: User Login
-
-Registered users log in using their credentials.
-
-Step 3: Dashboard
-
-After successful login, the dashboard is displayed.
+Step 3: Dashboard : After successful login, the dashboard is displayed.
 
 Step 4: Enter Patient Details
-
-The user enters:
-
+The user enters: 
 1.Patient Name
 2.Age
 3.Gender
@@ -48,35 +40,28 @@ The user enters:
 6.Maximum Heart Rate
 7.Old Peak
 
-Step 5: Data Validation
+Step 5: Data Validation : The system validates and processes the entered patient data.
 
-The system validates and processes the entered patient data.
+Step 6: AI Prediction : The Machine Learning model analyzes the patient data and predicts the patient's health condition.
 
-Step 6: AI Prediction
-
-The Machine Learning model analyzes the patient data and predicts the patient's health condition.
-
-Step 7: Risk Assessment
-
+Step 7: Risk Assessment  
 The system classifies the patient into one of the following categories:
-
 a) Normal
 b) Warning
 c) Critical
 
-Step 8: Store Patient Record
+Step 8: Store Patient Record : The patient's information and prediction result are stored in the SQLite database.
 
-The patient's information and prediction result are stored in the SQLite database.
+Step 9: Generate Patient Report : A report containing the patient's details and prediction result is generated.
 
-Step 9: Generate Patient Report
+Step 10: View Patient History : Users can view and search previously stored patient records.
 
-A report containing the patient's details and prediction result is generated.
+Step 11: Delete Record (Optional) : Patient records can be deleted whenever required.
 
-Step 10: View Patient History
+## Flow Chart
 
-Users can view and search previously stored patient records.
 
-Step 11: Delete Record (Optional)
 
-Patient records can be deleted whenever required.
+
+
 
