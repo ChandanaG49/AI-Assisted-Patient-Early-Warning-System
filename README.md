@@ -63,5 +63,8 @@ Step 11: Delete Record (Optional) : Patient records can be deleted whenever requ
 [diagram pro.docx](https://github.com/user-attachments/files/29654344/diagram.pro.docx)
 
 
+<img width="133" height="200" alt="Image" src="https://github.com/user-attachments/assets/f81b0308-0d31-4ed5-aa94-74577a59e4bf" />
+
+
 
 
