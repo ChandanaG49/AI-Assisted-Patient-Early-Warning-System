@@ -60,7 +60,7 @@ Step 11: Delete Record (Optional) : Patient records can be deleted whenever requ
 
 ## Flow Chart
 
-
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/6cf370fd-5eef-48ad-bd10-d204c9df327b" />
 
 
 
